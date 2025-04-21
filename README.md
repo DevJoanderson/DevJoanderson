@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Joanderson Souza
 
-Sou um desenvolvedor **Front End**, apaixonado por tecnologia, interfaces bem feitas e experiências de usuário. Atualmente estou criando projetos práticos com foco em HTML, CSS e JavaScript — sempre aprendendo e evoluindo!
+Sou um desenvolvedor **Front End**, apaixonado por tecnologia, interfaces bem feitas e experiências de usuário. Atualmente estou criando projetos práticos, sempre aprendendo e evoluindo!
 
 ---
 
