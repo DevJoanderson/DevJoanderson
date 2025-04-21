@@ -32,7 +32,7 @@ Sou um desenvolvedor **Front End**, apaixonado por tecnologia, interfaces bem fe
 
 ### 📫 Onde me encontrar:
 
-[![LinkedIn](https://www.linkedin.com/in/joanderson-souza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanderson-souza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevJoanderson)
 
