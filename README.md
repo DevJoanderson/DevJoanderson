@@ -1,6 +1,13 @@
-## 👋 Olá! Eu sou o Joanderson Souza
+Sou desenvolvedor Full Stack, apaixonado por tecnologia e por transformar ideias em soluções reais.
+Atualmente trabalho com:
 
-Sou um desenvolvedor **Front End**, apaixonado por tecnologia, interfaces bem feitas e experiências de usuário. Atualmente estou criando projetos práticos, sempre aprendendo e evoluindo!
+⚛️ React (Front-End)
+
+🟢 Node.js / Express (Back-End)
+
+🗄️ Prisma / Sequelize / MongoDB / PostgreSQL
+
+🎨 HTML, CSS, JavaScript e TypeScript
 
 ---
 
@@ -14,15 +21,6 @@ Sou um desenvolvedor **Front End**, apaixonado por tecnologia, interfaces bem fe
 
 ---
 
-### 🛠️ Projetos em destaque
-
-- 💰 **App de Finanças** — controle de despesas com categorias personalizadas  
-- ✅ **To-Do List** — gerenciador de tarefas com localStorage  
-- 🌐 **Landing Page de Hamburgueria** — site responsivo usando HTML/CSS/JS  
-
-
-
----
 
 ### 📊 GitHub Stats
 
